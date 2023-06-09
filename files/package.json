@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Express Hello World",
   "main": "server.js",
-  "repository": "https://github.com/fscarmen2/Render",
-  "author": "fscarmen",
+  "repository": "https://github.com/dannyjin68/ren",
+  "author": "ren",
   "license": "MIT",
   "private": false,
   "scripts": {
